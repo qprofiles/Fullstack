@@ -1,6 +1,4 @@
-# Fullstack
-
-
+# Fullstacks
 
 #HTML is a language to learn if anyone wants to work in the web development domain [Web designers, Web Developers]. 
 HTML alone is not sufficient for a web developer because HTML only defines the structure of the data that will be rendered on the browser in a webpage, 
